@@ -1,0 +1,2 @@
+# PrismaSample
+ORM Prisma Sample
